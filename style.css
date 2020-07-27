@@ -1,3 +1,53 @@
-#MyPicture {
-    
+body {
+    background-color: lightgray;
+}
+
+.img {
+  display: block;
+  margin-right: auto;
+  width: 40%;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+
+.box{
+  width: 65%;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+  background-color: gray;
+  text-align: center;
+  margin:auto;
+}
+
+.box2{
+  width: 65%;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+  background-color: gray; 
+  text-align: center;
+  margin:auto;
+}
+
+.box3{
+  width: 65%;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+  background-color: gray; 
+  text-align: center;
+  margin:auto;
+}
+
+.header {
+  font-size: large;
+  
+  float: center;
+}
+
+.img1{
+  width: 144px;
+  height: 144px;
 }
